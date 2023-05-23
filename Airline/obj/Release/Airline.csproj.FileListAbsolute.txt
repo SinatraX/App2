@@ -1,0 +1,7 @@
+C:\Users\JB\Documents\Cs3Apps\Airline\bin\Release\Airline.exe.config
+C:\Users\JB\Documents\Cs3Apps\Airline\bin\Release\Airline.exe
+C:\Users\JB\Documents\Cs3Apps\Airline\bin\Release\Airline.pdb
+C:\Users\JB\Documents\Cs3Apps\Airline\obj\Release\Airline.csproj.SuggestedBindingRedirects.cache
+C:\Users\JB\Documents\Cs3Apps\Airline\obj\Release\Airline.csproj.CoreCompileInputs.cache
+C:\Users\JB\Documents\Cs3Apps\Airline\obj\Release\Airline.exe
+C:\Users\JB\Documents\Cs3Apps\Airline\obj\Release\Airline.pdb

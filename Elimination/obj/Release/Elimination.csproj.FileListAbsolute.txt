@@ -1,0 +1,7 @@
+C:\Users\JB\Documents\Cs3Apps\Elimination\bin\Release\Elimination.exe.config
+C:\Users\JB\Documents\Cs3Apps\Elimination\bin\Release\Elimination.exe
+C:\Users\JB\Documents\Cs3Apps\Elimination\bin\Release\Elimination.pdb
+C:\Users\JB\Documents\Cs3Apps\Elimination\obj\Release\Elimination.csproj.SuggestedBindingRedirects.cache
+C:\Users\JB\Documents\Cs3Apps\Elimination\obj\Release\Elimination.csproj.CoreCompileInputs.cache
+C:\Users\JB\Documents\Cs3Apps\Elimination\obj\Release\Elimination.exe
+C:\Users\JB\Documents\Cs3Apps\Elimination\obj\Release\Elimination.pdb

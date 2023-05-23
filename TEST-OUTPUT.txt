@@ -1,0 +1,494 @@
+﻿~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~8.12 - Duplicate Elimination
+ENTER a number between 10 - 100
+10
+Distinct Elements: 10
+ENTER a number between 10 - 100
+20
+Distinct Elements: 10 20
+ENTER a number between 10 - 100
+30
+Distinct Elements: 10 20 30
+ENTER a number between 10 - 100
+40
+Distinct Elements: 10 20 30 40
+ENTER a number between 10 - 100
+50
+Distinct Elements: 10 20 30 40 50
+********************************************************************
+********************************************************************
+ENTER a number between 10 - 100
+99
+Distinct Elements: 99
+ENTER a number between 10 - 100
+88
+Distinct Elements: 99 88
+ENTER a number between 10 - 100
+77
+Distinct Elements: 99 88 77
+ENTER a number between 10 - 100
+66
+Distinct Elements: 99 88 77 66
+ENTER a number between 10 - 100
+55
+Distinct Elements: 99 88 77 66 55
+********************************************************************
+********************************************************************
+ENTER a number between 10 - 100
+19
+Distinct Elements: 19
+ENTER a number between 10 - 100
+29
+Distinct Elements: 19 29
+ENTER a number between 10 - 100
+39
+Distinct Elements: 19 29 39
+ENTER a number between 10 - 100
+49
+Distinct Elements: 19 29 39 49
+ENTER a number between 10 - 100
+59
+Distinct Elements: 19 29 39 49 59
+********************************************************************
+********************************************************************
+ENTER a number between 10 - 100
+15
+Distinct Elements: 15
+ENTER a number between 10 - 100
+25
+Distinct Elements: 15 25
+ENTER a number between 10 - 100
+35
+Distinct Elements: 15 25 35
+ENTER a number between 10 - 100
+45
+Distinct Elements: 15 25 35 45
+ENTER a number between 10 - 100
+55
+Distinct Elements: 15 25 35 45 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~8.19 - Airline Reservations System
+Welcome to Airline Reservations System!
+ENTER 1 to reserve First Class seat or 2 to reserve Economy Class seat.
+5
+PRESS ONLY 1 to reserve First Class seat or 2 to reserve Economy Class seat.
+1
+Assigned seat 5
+Welcome to Airline Reservations System!
+ENTER 1 to reserve First Class seat or 2 to reserve Economy Class seat.
+1
+Assigned seat 2
+Welcome to Airline Reservations System!
+ENTER 1 to reserve First Class seat or 2 to reserve Economy Class seat.
+1
+Assigned seat 3
+Welcome to Airline Reservations System!
+ENTER 1 to reserve First Class seat or 2 to reserve Economy Class seat.
+1
+Assigned seat 1
+Welcome to Airline Reservations System!
+ENTER 1 to reserve First Class seat or 2 to reserve Economy Class seat.
+1
+Assigned seat 4
+Welcome to Airline Reservations System!
+ENTER 1 to reserve First Class seat or 2 to reserve Economy Class seat.
+1
+Unfortunately, First Class seats isn't available at this time. Book a Economy Class seat instead? Y / N
+N
+Next flight leaves in 3 hours.
+Welcome to Airline Reservations System!
+ENTER 1 to reserve First Class seat or 2 to reserve Economy Class seat.
+1
+Unfortunately, First Class seats isn't available at this time. Book a Economy Class seat instead? Y / N
+Y
+Assigned seat 6
+Welcome to Airline Reservations System!
+ENTER 1 to reserve First Class seat or 2 to reserve Economy Class seat.
+2
+Assigned seat 7
+Welcome to Airline Reservations System!
+ENTER 1 to reserve First Class seat or 2 to reserve Economy Class seat.
+2
+Assigned seat 8
+Welcome to Airline Reservations System!
+ENTER 1 to reserve First Class seat or 2 to reserve Economy Class seat.
+2
+Assigned seat 9
+Welcome to Airline Reservations System!
+ENTER 1 to reserve First Class seat or 2 to reserve Economy Class seat.
+2
+Assigned seat 10
+
+Unfortunately, current airplane is fully occupied. Next flight leaves in 3 hours.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~10.10 - TicTacToe
+Enter player 1's name:
+Jay
+Enter player 2's name: (Type 'computer' to play with a computer)
+Brad
+0 0 0
+0 0 0
+0 0 0
+
+ENTER where to place your symbol:
+1
+1
+1 0 0
+0 0 0
+0 0 0
+
+ENTER where to place your symbol:
+2
+2
+1 0 0
+0 2 0
+0 0 0
+
+ENTER where to place your symbol:
+3
+1
+1 0 0
+0 2 0
+1 0 0
+
+ENTER where to place your symbol:
+2
+1
+1 0 0
+2 2 0
+1 0 0
+
+ENTER where to place your symbol:
+2
+3
+1 0 0
+2 2 1
+1 0 0
+
+ENTER where to place your symbol:
+3
+2
+1 0 0
+2 2 1
+1 2 0
+
+ENTER where to place your symbol:
+1
+2
+1 1 0
+2 2 1
+1 2 0
+
+ENTER where to place your symbol:
+1
+3
+1 1 2
+2 2 1
+1 2 0
+
+ENTER where to place your symbol:
+3
+3
+1 1 2
+2 2 1
+1 2 1
+
+It's a TIE!
+Do you want to play another game? Press [esc] to quit this game
+0 0 0
+0 0 0
+0 0 0
+
+ENTER where to place your symbol:!
+********************************************************************
+********************************************************************
+Enter player 1's name:
+Jay
+Enter player 2's name: (Type 'computer' to play with a computer)
+Iris
+0 0 0
+0 0 0
+0 0 0
+
+ENTER where to place your symbol:
+1
+2
+0 1 0
+0 0 0
+0 0 0
+
+ENTER where to place your symbol:
+3
+3
+0 1 0
+0 0 0
+0 0 2
+
+ENTER where to place your symbol:
+2
+2
+0 1 0
+0 1 0
+0 0 2
+
+ENTER where to place your symbol:
+3
+2
+0 1 0
+0 1 0
+0 2 2
+
+ENTER where to place your symbol:
+1
+1
+1 1 0
+0 1 0
+0 2 2
+
+ENTER where to place your symbol:
+1
+3
+1 1 2
+0 1 0
+0 2 2
+
+ENTER where to place your symbol:
+3
+1
+1 1 2
+0 1 0
+1 2 2
+
+ENTER where to place your symbol:
+2
+3
+1 1 2
+0 1 2
+1 2 2
+
+Congratulations Iris, You Win!
+Do you want to play another game? Press [esc] to quit this game
+See you next time!
+********************************************************************
+********************************************************************
+Enter player 1's name:
+Iris
+Enter player 2's name: (Type 'computer' to play with a computer)
+Jay
+0 0 0
+0 0 0
+0 0 0
+
+ENTER where to place your symbol:
+1
+1
+1 0 0
+0 0 0
+0 0 0
+
+ENTER where to place your symbol:
+3
+3
+1 0 0
+0 0 0
+0 0 2
+
+ENTER where to place your symbol:
+2
+2
+1 0 0
+0 1 0
+0 0 2
+
+ENTER where to place your symbol:
+1
+3
+1 0 2
+0 1 0
+0 0 2
+
+ENTER where to place your symbol:
+3
+1
+1 0 2
+0 1 0
+1 0 2
+
+ENTER where to place your symbol:
+2
+3
+1 0 2
+0 1 2
+1 0 2
+
+Congratulations Jay, You Win!
+Do you want to play another game? Press [esc] to quit this game
+See you next time!
+********************************************************************
+********************************************************************
+Enter player 1's name:
+Jay
+Enter player 2's name: (Type 'computer' to play with a computer)
+computer
+0 0 0
+0 0 0
+0 0 0
+
+ENTER where to place your symbol:
+1
+1
+1 0 0
+0 0 0
+0 0 0
+
+1 0 0
+0 0 2
+0 0 0
+
+ENTER where to place your symbol:
+2
+2
+1 0 0
+0 1 2
+0 0 0
+
+1 0 0
+0 1 2
+0 2 0
+
+ENTER where to place your symbol:
+3
+3
+1 0 0
+0 1 2
+0 2 1
+
+Congratulations Jay, You Win!
+Do you want to play another game? Press [esc] to quit this game
+See you next time!
+********************************************************************
+********************************************************************
+Enter player 1's name:
+Jay
+Enter player 2's name: (Type 'computer' to play with a computer)
+computer
+0 0 0
+0 0 0
+0 0 0
+
+ENTER where to place your symbol:
+0
+0
+Wrong coordinates, please try again:
+2
+2
+0 0 0
+0 1 0
+0 0 0
+
+0 0 0
+0 1 0
+0 2 0
+
+ENTER where to place your symbol:
+1
+1
+1 0 0
+0 1 0
+0 2 0
+
+1 0 0
+0 1 0
+2 2 0
+
+ENTER where to place your symbol:
+1
+3
+1 0 1
+0 1 0
+2 2 0
+
+1 0 1
+2 1 0
+2 2 0
+
+ENTER where to place your symbol:
+2
+3
+1 0 1
+2 1 1
+2 2 0
+
+1 0 1
+2 1 1
+2 2 2
+
+Computer Win!
+Do you want to play another game? Press [esc] to quit this game
+See you next time!
+********************************************************************
+********************************************************************
+Enter player 1's name:
+Jay
+Enter player 2's name: (Type 'computer' to play with a computer)
+computer
+0 0 0
+0 0 0
+0 0 0
+
+ENTER where to place your symbol:
+1
+1
+1 0 0
+0 0 0
+0 0 0
+
+1 0 0
+0 0 0
+0 0 2
+
+ENTER where to place your symbol:
+2
+2
+1 0 0
+0 1 0
+0 0 2
+
+1 0 2
+0 1 0
+0 0 2
+
+ENTER where to place your symbol:
+2
+3
+1 0 2
+0 1 1
+0 0 2
+
+1 0 2
+2 1 1
+0 0 2
+
+ENTER where to place your symbol:
+3
+2
+1 0 2
+2 1 1
+0 1 2
+
+1 2 2
+2 1 1
+0 1 2
+
+ENTER where to place your symbol:
+3
+1
+1 2 2
+2 1 1
+1 1 2
+
+It's a TIE!
+Do you want to play another game? Press [esc] to quit this game
+0 0 0
+0 0 0
+0 0 0
+
+ENTER where to place your symbol:
